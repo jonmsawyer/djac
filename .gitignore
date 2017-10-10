@@ -1,3 +1,10 @@
+*~
+db/*
+conf/djac-apache.conf
+conf/djac-nginx.conf
+conf/site_settings.py
+static/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
